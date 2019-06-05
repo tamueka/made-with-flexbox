@@ -1,0 +1,26 @@
+{
+  "name": "made-whit-flexbox",
+  "version": "1.0.0",
+  "description": "Project made whit flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamueka/made-with-flexbox.git"
+  },
+  "author": "Samuel Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamueka/made-with-flexbox/issues"
+  },
+  "homepage": "https://github.com/tamueka/made-with-flexbox#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "mini-css-extract-plugin": "^0.7.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1"
+  }
+}
